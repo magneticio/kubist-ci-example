@@ -1,0 +1,8 @@
+rootPassword: root12
+databaseUrl:
+databaseName: vamp
+imageName: magneticio/vamp2
+repoUsername: $DOCKER_USERNAME
+repoPassword: $DOCKER_PASSWORD
+imageTag: 0.7.13-ce81df2adc72ade05fd23c5c325e04fe587b833a
+mode: IN_CLUSTER
